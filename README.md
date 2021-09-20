@@ -1,0 +1,1 @@
+This is Luqman's first The Odin Project's project assignment called Recipes !
